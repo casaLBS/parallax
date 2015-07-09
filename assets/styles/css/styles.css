@@ -828,6 +828,14 @@ footer .twitter-share-button {
   right: 20%;
 }
 
+.red {
+  background-image: url(../../images/lighthouse-red.png);
+}
+
+.green {
+  right: 30%;
+  background-image: url(../../images/lighthouse-green.png);
+}
 .wave {
   background: transparent repeat-x;
   position: absolute;

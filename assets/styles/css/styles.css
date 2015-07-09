@@ -825,7 +825,7 @@ footer .twitter-share-button {
   background-repeat: no-repeat;
   bottom: 64px;
   position: absolute;
-  right: 20%;
+  left: 15%;
 }
 
 .red {
@@ -833,7 +833,7 @@ footer .twitter-share-button {
 }
 
 .green {
-  right: 30%;
+  left: 30%;
   background-image: url(../../images/lighthouse-green.png);
 }
 .wave {

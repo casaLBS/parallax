@@ -1027,6 +1027,54 @@ footer .twitter-share-button {
   background-image: url(../../images/board-cloud-4.png);
 }
 
+.board.chao {
+  background-image: url(../../images/casa/chao.png);
+}
+
+.board.fengda {
+  background-image: url(../../images/casa/fengda.png);
+}
+
+.board.jingqiang {
+  background-image: url(../../images/casa/jingqiang.png);
+}
+
+.board.lina {
+  background-image: url(../../images/casa/lina.png);
+}
+
+.board.qing {
+  background-image: url(../../images/casa/qing.png);
+}
+
+.board.sijian {
+  background-image: url(../../images/casa/sijian.png);
+}
+
+.board.song {
+  background-image: url(../../images/casa/song.png);
+}
+
+.board.tao {
+  background-image: url(../../images/casa/tao.png);
+}
+
+.board.xu {
+  background-image: url(../../images/casa/xu.png);
+}
+
+.board.yanmin {
+  background-image: url(../../images/casa/yanmin.png);
+}
+
+.board.yuanlei {
+  background-image: url(../../images/casa/yuanlei.png);
+}
+
+.board.yuchao {
+  background-image: url(../../images/casa/yuchao.png);
+}
+
 .swing-1 {
   -webkit-animation: swing 4s infinite alternate cubic-bezier(0.455, 0.03, 0.515, 0.955);
   -moz-animation: swing 4s infinite alternate cubic-bezier(0.455, 0.03, 0.515, 0.955);
